@@ -1,0 +1,25 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    background-image: linear-gradient(to bottom, blue,aqua);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#searchBar{
+    width: 300px;
+}
+
+h1,
+h2{
+    color: white;
+}
+
+#tempBtns>button{
+    background-color: aqua;
+    height: 40px;
+}
+
+.subBody{
+    text-align: center;
+}

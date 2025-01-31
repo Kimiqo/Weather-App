@@ -1,8 +1,8 @@
 ## Description
-# Weather Web App
+Weather Web App
 
-# Link
-# https://kimiqo.github.io/Weather-App/
+Link
+https://kimiqo.github.io/Weather-App/
 
 
 
